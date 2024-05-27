@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2pmZXRtZWFoaDRpaXJnbXZieXp0NTVtOTVrZnNlcDdheDFuaW5kdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="100"/>
+  <img src="https://cdn.discordapp.com/avatars/526842917738774540/a_4cd793ca0e68451d4a6b90be5d89d301.gif?size=1024" width="100"/>
 </div>

@@ -34,4 +34,4 @@ Wenn ich nicht gerade programmiere, experimentiere ich mit neuen Technologien, b
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/johndoe" target="_blank">Luca</a> Email: contact@odidumm.com</p>
+Email: contact@odidumm.com</p>

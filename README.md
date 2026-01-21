@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://i.imgur.com/Rv33SuL.gif" width="100"//>
 </div>
+
 ## About Me
 
 Hallo, ich bin Luca, ein leidenschaftlicher Programmierer und System Admin. Ich lerne ständig dazu und entdecke neue Tools und Frameworks, um mit den neuesten Trends der Branche Schritt zu halten.
